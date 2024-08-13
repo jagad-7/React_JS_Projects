@@ -1,0 +1,21 @@
+header{
+    margin-top: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.head{
+    width: 300px;
+    height: 80px;
+    background-color: gray;
+    border-radius: 4px;
+    box-shadow: 0 0 0 0px black;
+}
+.head h1{   
+    text-align: center;
+    padding-top: 15px;
+}
+.container{
+    display: flex;
+    margin-top: 35px;
+    justify-content: space-evenly;
+}
